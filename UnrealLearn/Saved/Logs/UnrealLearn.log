@@ -986,3 +986,27 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.20-17.34.07:835][945]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.20-17.34.07:835][945]LogContentValidation: Display: Validating ItemBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ItemBase_C_UAID_489EBD2F96F0B01101_2113102087
 [2022.05.20-17.34.07:835][945]LogContentValidation: Display: Validating ItemBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ItemBase_C_UAID_489EBD2F96F0B71101_1337915319
+[2022.05.20-17.37.10:107][459]BlueprintLog: New page: Compile InventoryComponent
+[2022.05.20-17.37.10:185][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.20-17.37.11:124][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2022.05.20-17.37.11:982][481]LogSavePackage: Moving output files for package: /Game/Inventory/InventoryComponent
+[2022.05.20-17.37.11:985][481]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/InventoryComponent531410F04367B338FAE606B031455050.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset'
+[2022.05.20-17.37.12:005][481]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.05.20-17.37.12:006][481]LogContentValidation: Display: Validating Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2022.05.20-17.37.48:130][628]BlueprintLog: New page: Compile InventoryComponent
+[2022.05.20-17.37.48:192][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.05.20-17.37.49:171][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2022.05.20-17.37.49:992][673]LogSavePackage: Moving output files for package: /Game/Inventory/InventoryComponent
+[2022.05.20-17.37.49:994][673]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/InventoryComponentAD45123C40DA2ACAE9ADFCB3E6FE99AD.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset'
+[2022.05.20-17.37.50:016][673]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.05.20-17.37.50:016][673]LogContentValidation: Display: Validating Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2022.05.20-17.38.04:574][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2022.05.20-17.38.05:742][433]LogSavePackage: Moving output files for package: /Game/Inventory/InventoryComponent
+[2022.05.20-17.38.05:745][433]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/InventoryComponentE9AEE63D4255A95394ED37ACC306FCB6.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset'
+[2022.05.20-17.38.05:766][433]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.05.20-17.38.05:766][433]LogContentValidation: Display: Validating Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2022.05.20-17.39.02:887][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2022.05.20-17.39.02:975][257]LogSavePackage: Moving output files for package: /Game/Inventory/InventoryComponent
+[2022.05.20-17.39.02:978][257]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/InventoryComponent971189CE43529A52E82204BAF92547BE.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset'
+[2022.05.20-17.39.03:008][257]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.05.20-17.39.03:008][257]LogContentValidation: Display: Validating Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
