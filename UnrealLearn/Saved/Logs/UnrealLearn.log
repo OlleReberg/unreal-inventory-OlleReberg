@@ -736,3 +736,253 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.20-16.23.09:306][636]LogSlate: Took 0.015140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2022.05.20-16.23.14:311][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/VitalComponent.VitalComponent
 [2022.05.20-16.23.14:311][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-16.24.29:164][ 88]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/ItemBase.ItemBase
+[2022.05.20-16.24.29:164][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-16.24.29:629][ 88]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-16.24.47:678][ 56]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-16.25.07:777][701]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.05.20-16.25.10:149][708]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.05.20-16.27.28:147][119]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2022.05.20-16.27.28:147][119]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24920
+[2022.05.20-16.27.28:478][119]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7d4dd80e-6f06-46e8-b7a5-e8cb518077ec}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=52.95
+[2022.05.20-16.27.28:478][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.20-16.27.28:485][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.20-16.30.23:940][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.05.20-16.30.24:255][643]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007087 seconds
+[2022.05.20-16.30.24:910][643]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto1
+[2022.05.20-16.30.24:911][643]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/DCU69GJMFB16MD02M4R2BG_Auto1E378AB1D40340D5E70FB6583BC212AB1.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto1.uasset'
+[2022.05.20-16.30.24:913][643]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 1.012
+[2022.05.20-16.30.24:913][643]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.012
+[2022.05.20-16.30.24:914][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/ItemBase] ([2] browsable assets)...
+[2022.05.20-16.30.24:914][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/ItemBase]
+[2022.05.20-16.30.24:991][643]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/ItemBase_Auto1
+[2022.05.20-16.30.24:991][643]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/ItemBase_Auto1F66D1A3D4213C611941E21B72E9F849B.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Inventory/ItemBase_Auto1.uasset'
+[2022.05.20-16.30.24:993][643]LogFileHelpers: Auto-saving content packages took 0.081
+[2022.05.20-16.44.15:303][125]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphone (Realtek(R) Audio), InstanceID=1
+[2022.05.20-16.44.15:303][125]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24920
+[2022.05.20-16.44.15:637][125]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{57e3cb2a-d045-468a-88d0-c88f3a5da8bd}, Name=Headphone (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=279.39
+[2022.05.20-16.44.15:637][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.20-16.44.15:644][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.20-16.51.52:746][256]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2022.05.20-16.51.52:746][256]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24920
+[2022.05.20-16.51.53:079][256]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7d4dd80e-6f06-46e8-b7a5-e8cb518077ec}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=180.49
+[2022.05.20-16.51.53:079][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.20-16.51.53:086][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.20-16.58.06:043][839]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24920
+[2022.05.20-16.58.06:149][845]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphone (Realtek(R) Audio), InstanceID=1
+[2022.05.20-16.58.06:382][857]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7d4dd80e-6f06-46e8-b7a5-e8cb518077ec}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnSessionDisconnect() - FormatChanged, InstanceID=1, DurationMS=333.58
+[2022.05.20-16.58.06:383][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.20-16.58.06:391][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.20-16.58.06:406][859]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24920
+[2022.05.20-16.58.06:813][880]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{57e3cb2a-d045-468a-88d0-c88f3a5da8bd}, Name=Headphone (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=410.09
+[2022.05.20-16.58.06:813][880]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.20-16.58.06:825][881]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.20-16.58.57:907][174]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-16.59.30:243][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.05.20-16.59.30:250][797]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto2
+[2022.05.20-16.59.30:250][797]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/DCU69GJMFB16MD02M4R2BG_Auto25590F13E48646F79A94A768A4C8123DD.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto2.uasset'
+[2022.05.20-16.59.30:253][797]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.053
+[2022.05.20-16.59.30:253][797]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2022.05.20-16.59.30:253][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/ItemBase] ([2] browsable assets)...
+[2022.05.20-16.59.30:253][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/ItemBase]
+[2022.05.20-16.59.30:664][797]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/ItemBase_Auto2
+[2022.05.20-16.59.30:667][797]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/ItemBase_Auto289A7AD844D441B958A148087DA9BABF4.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Inventory/ItemBase_Auto2.uasset'
+[2022.05.20-16.59.30:674][797]LogFileHelpers: Auto-saving content packages took 0.420
+[2022.05.20-17.02.31:677][773]BlueprintLog: New page: Compile ItemBase
+[2022.05.20-17.02.31:689][773]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.02.31:747][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.05.20-17.02.31:749][773]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.02.31:754][773]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.02.37:057][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ItemBase" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset" SILENT=true
+[2022.05.20-17.02.38:400][ 40]LogSavePackage: Moving output files for package: /Game/Inventory/ItemBase
+[2022.05.20-17.02.38:403][ 40]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/ItemBaseB5AEB3BF4A0B65D1D18FE081CA824688.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset'
+[2022.05.20-17.02.38:431][ 40]AssetCheck: New page: Asset Save: ItemBase
+[2022.05.20-17.02.38:431][ 40]LogContentValidation: Display: Validating Blueprint /Game/Inventory/ItemBase.ItemBase
+[2022.05.20-17.05.27:769][916]LogEditorTransaction: Undo Move Node
+[2022.05.20-17.05.27:773][916]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.05.28:243][928]LogEditorTransaction: Undo Delete current selection
+[2022.05.20-17.05.28:247][928]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.05.28:969][963]LogEditorTransaction: Undo Add Node
+[2022.05.20-17.05.28:973][963]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.07.39:678][479]BlueprintLog: New page: Compile ItemBase
+[2022.05.20-17.07.39:684][479]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.07.39:741][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.05.20-17.07.39:745][479]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.07.39:750][479]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.07.40:605][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ItemBase" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset" SILENT=true
+[2022.05.20-17.07.40:678][517]LogSavePackage: Moving output files for package: /Game/Inventory/ItemBase
+[2022.05.20-17.07.40:680][517]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/ItemBase1633F0E04EAFBD4328D626BD4A1A3026.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset'
+[2022.05.20-17.07.40:701][517]AssetCheck: New page: Asset Save: ItemBase
+[2022.05.20-17.07.40:701][517]LogContentValidation: Display: Validating Blueprint /Game/Inventory/ItemBase.ItemBase
+[2022.05.20-17.07.52:740][ 95]LogEditorTransaction: Undo Move Node
+[2022.05.20-17.07.52:743][ 95]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.07.53:372][116]LogEditorTransaction: Undo Create Pin Link
+[2022.05.20-17.07.53:375][116]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.07.54:281][169]LogEditorTransaction: Undo Add Node
+[2022.05.20-17.07.54:285][169]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.07.54:647][190]LogEditorTransaction: Undo Create Pin Link
+[2022.05.20-17.07.54:650][190]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Engine/Transient.World_3:PersistentLevel.ItemBase_C_0
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.07.55:127][218]LogEditorTransaction: Undo Move Node
+[2022.05.20-17.07.55:542][242]LogEditorTransaction: Undo Delete current selection
+[2022.05.20-17.08.00:394][525]LogEditorTransaction: Redo Delete current selection
+[2022.05.20-17.08.00:828][536]LogEditorTransaction: Redo Move Node
+[2022.05.20-17.08.01:211][555]LogEditorTransaction: Redo Create Pin Link
+[2022.05.20-17.08.02:184][612]LogEditorTransaction: Undo Create Pin Link
+[2022.05.20-17.08.02:384][623]LogEditorTransaction: Undo Move Node
+[2022.05.20-17.08.02:596][635]LogEditorTransaction: Undo Delete current selection
+[2022.05.20-17.08.03:261][674]LogEditorTransaction: Undo Add Node
+[2022.05.20-17.08.34:642][107]BlueprintLog: New page: Compile ItemBase
+[2022.05.20-17.08.34:701][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.05.20-17.08.36:771][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ItemBase" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset" SILENT=true
+[2022.05.20-17.08.37:318][208]LogSavePackage: Moving output files for package: /Game/Inventory/ItemBase
+[2022.05.20-17.08.37:321][208]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/ItemBase19AF32CD414DED10494666BBC7244D4F.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset'
+[2022.05.20-17.08.37:341][208]AssetCheck: New page: Asset Save: ItemBase
+[2022.05.20-17.08.37:341][208]LogContentValidation: Display: Validating Blueprint /Game/Inventory/ItemBase.ItemBase
+[2022.05.20-17.08.42:209][296]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2022.05.20-17.08.42:209][296]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24920
+[2022.05.20-17.08.42:543][296]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7d4dd80e-6f06-46e8-b7a5-e8cb518077ec}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=63.12
+[2022.05.20-17.08.42:543][296]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.20-17.08.42:553][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.20-17.09.12:740][968]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/ItemPDA.ItemPDA
+[2022.05.20-17.09.12:740][968]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-17.09.21:637][441]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2022.05.20-17.09.21:637][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-17.09.45:103][574]LogSlate: Took 0.014859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.20-17.10.30:690][272]BlueprintLog: New page: Compile InventoryComponent
+[2022.05.20-17.10.30:767][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.05.20-17.11.03:722][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.05.20-17.11.03:729][865]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto3
+[2022.05.20-17.11.03:729][865]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/DCU69GJMFB16MD02M4R2BG_Auto32A53FA674E25E6CA331C708B26EAD0DA.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto3.uasset'
+[2022.05.20-17.11.03:731][865]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.052
+[2022.05.20-17.11.03:731][865]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2022.05.20-17.11.03:733][865]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/ItemBase] ([2] browsable assets)...
+[2022.05.20-17.11.03:733][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/ItemBase]
+[2022.05.20-17.11.03:813][865]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/ItemBase_Auto3
+[2022.05.20-17.11.03:816][865]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/ItemBase_Auto3F84A882647C8C8DB6C8057A3AC7C819B.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Inventory/ItemBase_Auto3.uasset'
+[2022.05.20-17.11.03:824][865]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/InventoryComponent] ([2] browsable assets)...
+[2022.05.20-17.11.03:824][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/InventoryComponent]
+[2022.05.20-17.11.03:873][865]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/InventoryComponent_Auto3
+[2022.05.20-17.11.03:873][865]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/InventoryComponent_Auto390E939E04914EF1490177DA6A52B3C9F.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Inventory/InventoryComponent_Auto3.uasset'
+[2022.05.20-17.11.03:876][865]LogFileHelpers: Auto-saving content packages took 0.144
+[2022.05.20-17.11.51:343][252]BlueprintLog: New page: Compile ItemBase
+[2022.05.20-17.11.51:423][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.05.20-17.11.52:248][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ItemBase" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset" SILENT=true
+[2022.05.20-17.11.53:377][286]LogSavePackage: Moving output files for package: /Game/Inventory/ItemBase
+[2022.05.20-17.11.53:380][286]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/ItemBase68D037BB46D0CDCA09F48BADB664547F.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset'
+[2022.05.20-17.11.53:400][286]AssetCheck: New page: Asset Save: ItemBase
+[2022.05.20-17.11.53:400][286]LogContentValidation: Display: Validating Blueprint /Game/Inventory/ItemBase.ItemBase
+[2022.05.20-17.12.34:220][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2022.05.20-17.12.35:005][ 10]LogSavePackage: Moving output files for package: /Game/Inventory/InventoryComponent
+[2022.05.20-17.12.35:008][ 10]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/InventoryComponentA228329646B906FC146842B1F67BED49.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InventoryComponent.uasset'
+[2022.05.20-17.12.35:065][ 10]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.05.20-17.12.35:065][ 10]LogContentValidation: Display: Validating Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2022.05.20-17.12.46:205][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.20-17.12.46:206][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-17.13.04:173][345]LogEditorTransaction: Undo Delete current selection
+[2022.05.20-17.13.19:375][ 93]LogEditorTransaction: Undo Create Reroute Node
+[2022.05.20-17.18.57:727][881]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.05.20-17.18.58:184][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.05.20-17.18.58:764][892]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.20-17.18.58:767][892]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/BP_ThirdPersonCharacter5E2EC21A482A7AACDEE6179EE5F0D8D3.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.20-17.18.58:790][892]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.20-17.18.58:790][892]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.20-17.19.09:899][ 88]LogDerivedDataCache: C:/Users/OlleR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.223 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.20-17.22.02:176][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.05.20-17.22.02:184][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto4
+[2022.05.20-17.22.02:512][860]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/DCU69GJMFB16MD02M4R2BG_Auto47625F53B40AAED1DBABABF9392BF21B0.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto4.uasset'
+[2022.05.20-17.22.02:520][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.395
+[2022.05.20-17.22.02:520][860]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.395
+[2022.05.20-17.22.02:521][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.05.20-17.22.02:529][860]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.05.20-17.22.02:529][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.05.20-17.22.02:777][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2022.05.20-17.22.02:777][860]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/BP_ThirdPersonCharacter_Auto4308923D74601AFFA36B7D59B87E904ED.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2022.05.20-17.22.02:780][860]LogFileHelpers: Auto-saving content packages took 0.260
+[2022.05.20-17.24.22:295][171]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.05.20-17.24.22:400][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.05.20-17.24.23:503][205]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.20-17.24.23:506][205]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/BP_ThirdPersonCharacterBDDDFF674F1A7F0A5BE79881A9E2460A.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.20-17.24.23:529][205]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.20-17.24.23:530][205]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.20-17.24.48:487][444]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/InteractIF.InteractIF
+[2022.05.20-17.24.48:487][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-17.25.01:923][ 43]BlueprintLog: New page: Compile InteractIF
+[2022.05.20-17.25.01:995][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.05.20-17.25.08:998][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InteractIF" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InteractIF.uasset" SILENT=true
+[2022.05.20-17.25.09:308][369]LogSavePackage: Moving output files for package: /Game/Inventory/InteractIF
+[2022.05.20-17.25.09:311][369]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/InteractIF0A8098A0460059B413F584B39C6D2714.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/InteractIF.uasset'
+[2022.05.20-17.25.09:812][369]AssetCheck: New page: Asset Save: InteractIF
+[2022.05.20-17.25.09:812][369]LogContentValidation: Display: Validating Blueprint /Game/Inventory/InteractIF.InteractIF
+[2022.05.20-17.25.45:467][489]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.05.20-17.25.45:576][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.05.20-17.25.46:367][510]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.20-17.25.46:370][510]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/BP_ThirdPersonCharacter9F75ED3042489F52C233719E80DB084F.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.20-17.25.46:396][510]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.20-17.25.46:396][510]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.20-17.26.13:336][801]BlueprintLog: New page: Compile ItemBase
+[2022.05.20-17.26.13:418][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.05.20-17.26.14:091][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ItemBase" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset" SILENT=true
+[2022.05.20-17.26.14:253][831]LogSavePackage: Moving output files for package: /Game/Inventory/ItemBase
+[2022.05.20-17.26.14:256][831]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/ItemBase13B344834CB1D90E50F7DFAD17C62753.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Inventory/ItemBase.uasset'
+[2022.05.20-17.26.14:278][831]AssetCheck: New page: Asset Save: ItemBase
+[2022.05.20-17.26.14:278][831]LogContentValidation: Display: Validating Blueprint /Game/Inventory/ItemBase.ItemBase
+[2022.05.20-17.28.30:027][667]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Dagger_uh3gab3fa/S_Dagger_uh3gab3fa_high_Var1.S_Dagger_uh3gab3fa_high_Var1
+[2022.05.20-17.28.30:542][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-17.28.30:804][667]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.05.20-17.30.00:483][ 73]LogSlate: Window 'Save Asset As' being destroyed
+[2022.05.20-17.30.06:674][355]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.20-17.30.13:311][473]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Megascans/3D_Assets/Dagger_uh3gab3fa/S_Dagger_uh3gab3fa_high_Var1) ...
+[2022.05.20-17.30.13:391][473]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.006 Y=-0.017 Z=0.000, BoxExtent=(X=2.530 Y=2.553 Z=18.510), SphereRadius=(18.544186)) and MeshDescription Bounds (Origin=X=0.001 Y=0.001 Z=-0.002, BoxExtent=(X=2.509 Y=2.521 Z=18.508), SphereRadius=(18.510239)) is significative for StaticMesh /Game/Megascans/3D_Assets/Dagger_uh3gab3fa/S_Dagger_uh3gab3fa_high_Var1.S_Dagger_uh3gab3fa_high_Var1
+[2022.05.20-17.30.26:106][917]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Dagger_uh3gab3fa/S_Dagger_uh3gab3fa_high_Var1
+[2022.05.20-17.30.26:108][917]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/S_Dagger_uh3gab3fa_high_Var134948A9942DB066DC98BA988726C6EE1.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Megascans/3D_Assets/Dagger_uh3gab3fa/S_Dagger_uh3gab3fa_high_Var1.uasset'
+[2022.05.20-17.30.26:130][917]AssetCheck: New page: Asset Save: S_Dagger_uh3gab3fa_high_Var1
+[2022.05.20-17.30.26:130][917]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Dagger_uh3gab3fa/S_Dagger_uh3gab3fa_high_Var1.S_Dagger_uh3gab3fa_high_Var1
+[2022.05.20-17.31.46:745][606]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-17.31.46:745][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-17.32.15:986][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.05.20-17.32.15:997][757]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto5
+[2022.05.20-17.32.15:999][757]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/DCU69GJMFB16MD02M4R2BG_Auto5D23ADBF048D58D87560A48B8732B58F9.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG_Auto5.uasset'
+[2022.05.20-17.32.16:006][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.464
+[2022.05.20-17.32.16:006][757]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.464
+[2022.05.20-17.33.47:524][508]LogScript: Warning: Accessed None trying to read property ItemPDA_2_FB8A5F074F0C14479F46DF95A00FD9C4
+	ItemBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ItemBase_C_UAID_489EBD2F96F0B71101_1337915319
+	Function /Game/Inventory/ItemBase.ItemBase_C:UserConstructionScript:0043
+[2022.05.20-17.34.07:646][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG
+[2022.05.20-17.34.07:649][945]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/DCU69GJMFB16MD02M4R2BG2A5E989B40450F25EC5CE192B7992895.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2G/DCU69GJMFB16MD02M4R2BG.uasset'
+[2022.05.20-17.34.07:660][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/26/0WEP1B33X9MRESMANNW2SD
+[2022.05.20-17.34.07:660][945]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/0WEP1B33X9MRESMANNW2SD30045E6D4D01384A2DC76CBE3A71DFD7.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/26/0WEP1B33X9MRESMANNW2SD.uasset'
+[2022.05.20-17.34.07:835][945]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.20-17.34.07:835][945]LogContentValidation: Display: Validating ItemBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ItemBase_C_UAID_489EBD2F96F0B01101_2113102087
+[2022.05.20-17.34.07:835][945]LogContentValidation: Display: Validating ItemBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ItemBase_C_UAID_489EBD2F96F0B71101_1337915319
