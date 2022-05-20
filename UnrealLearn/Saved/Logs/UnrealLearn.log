@@ -887,3 +887,119 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.20-13.50.39:964][618]LogContentValidation: Display: Validating Blueprint /Game/Enemies/EnemyA.EnemyA
 [2022.05.20-13.52.36:276][761]BlueprintLog: New page: Compile VitalComponent
 [2022.05.20-13.52.36:358][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.05.20-13.55.00:733][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.05.20-13.55.01:073][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto5
+[2022.05.20-13.55.01:073][ 56]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/8C4GDWSRI72J8BAICJ9I8L_Auto5FD1248C3488CDA1DB1AD51BB2BBE3CC9.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto5.uasset'
+[2022.05.20-13.55.01:076][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.400
+[2022.05.20-13.55.01:076][ 56]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.400
+[2022.05.20-13.55.01:077][ 56]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/VitalComponent] ([2] browsable assets)...
+[2022.05.20-13.55.01:077][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/VitalComponent]
+[2022.05.20-13.55.01:124][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/VitalComponent_Auto5
+[2022.05.20-13.55.01:125][ 56]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/VitalComponent_Auto50CC6B20740C31F8D37A05B83604D6DAF.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Enemies/VitalComponent_Auto5.uasset'
+[2022.05.20-13.55.01:127][ 56]LogFileHelpers: Auto-saving content packages took 0.051
+[2022.05.20-13.56.38:142][364]LogEditorTransaction: Undo Delete current selection
+[2022.05.20-14.02.13:428][509]BlueprintLog: New page: Compile VitalComponent
+[2022.05.20-14.02.13:510][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.05.20-14.04.49:958][528]BlueprintLog: New page: Compile VitalComponent
+[2022.05.20-14.04.50:040][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.20-14.05.20:010][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.05.20-14.05.20:030][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto6
+[2022.05.20-14.05.20:030][943]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/8C4GDWSRI72J8BAICJ9I8L_Auto610BF989C477947D9A108B093B053F679.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto6.uasset'
+[2022.05.20-14.05.20:033][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.069
+[2022.05.20-14.05.20:033][943]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2022.05.20-14.05.20:033][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.05.20-14.05.20:033][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.05.20-14.05.21:413][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2022.05.20-14.05.21:413][943]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/BP_ThirdPersonCharacter_Auto628CCA04F4C8F12DFFB47668558CC97BE.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2022.05.20-14.05.21:416][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/VitalComponent] ([2] browsable assets)...
+[2022.05.20-14.05.21:416][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/VitalComponent]
+[2022.05.20-14.05.21:512][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/VitalComponent_Auto6
+[2022.05.20-14.05.21:513][943]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/VitalComponent_Auto6EF902C2A4327FCF60B0FC89D656E7430.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Enemies/VitalComponent_Auto6.uasset'
+[2022.05.20-14.05.21:515][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/EnemyA] ([2] browsable assets)...
+[2022.05.20-14.05.21:605][943]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/EnemyA.EnemyA]
+[2022.05.20-14.05.21:606][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/EnemyA]
+[2022.05.20-14.05.21:659][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/EnemyA_Auto6
+[2022.05.20-14.05.21:659][943]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/EnemyA_Auto6F9EDA62244DA24128A323D897DA6333C.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Enemies/EnemyA_Auto6.uasset'
+[2022.05.20-14.05.21:661][943]LogFileHelpers: Auto-saving content packages took 1.628
+[2022.05.20-14.10.00:845][580]BlueprintLog: New page: Compile VitalComponent
+[2022.05.20-14.10.00:933][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.05.20-14.15.22:328][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.05.20-14.15.22:696][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto7
+[2022.05.20-14.15.22:696][792]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/8C4GDWSRI72J8BAICJ9I8L_Auto786461C4F48052D3DA33CB5876BB25D9C.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto7.uasset'
+[2022.05.20-14.15.22:699][792]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.423
+[2022.05.20-14.15.22:699][792]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.423
+[2022.05.20-14.15.22:700][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/VitalComponent] ([2] browsable assets)...
+[2022.05.20-14.15.22:700][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/VitalComponent]
+[2022.05.20-14.15.22:775][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/VitalComponent_Auto7
+[2022.05.20-14.15.22:775][792]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/VitalComponent_Auto7A06409DB4A6831C74D0E2CAE15F496B8.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Enemies/VitalComponent_Auto7.uasset'
+[2022.05.20-14.15.22:778][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/EnemyA] ([2] browsable assets)...
+[2022.05.20-14.15.22:899][792]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/EnemyA.EnemyA]
+[2022.05.20-14.15.22:899][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/EnemyA]
+[2022.05.20-14.15.22:989][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/EnemyA_Auto7
+[2022.05.20-14.15.22:989][792]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/EnemyA_Auto75E098C9D45E070504EB5E7A37A5889AB.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Enemies/EnemyA_Auto7.uasset'
+[2022.05.20-14.15.22:992][792]LogFileHelpers: Auto-saving content packages took 0.292
+[2022.05.20-14.21.01:616][443]LogEditorTransaction: Undo Delete current selection
+[2022.05.20-14.22.13:607][155]BlueprintLog: New page: Compile VitalComponent
+[2022.05.20-14.22.13:689][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.05.20-14.23.31:565][201]BlueprintLog: New page: Compile VitalComponent
+[2022.05.20-14.23.31:647][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.20-14.24.10:120][267]BlueprintLog: New page: Compile VitalComponent
+[2022.05.20-14.24.10:200][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.05.20-14.24.12:331][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/VitalComponent" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Enemies/VitalComponent.uasset" SILENT=true
+[2022.05.20-14.24.13:851][371]LogSavePackage: Moving output files for package: /Game/Enemies/VitalComponent
+[2022.05.20-14.24.13:854][371]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/VitalComponent14445AF14812EEE329EAE99147A23131.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Enemies/VitalComponent.uasset'
+[2022.05.20-14.24.13:874][371]AssetCheck: New page: Asset Save: VitalComponent
+[2022.05.20-14.24.13:874][371]LogContentValidation: Display: Validating Blueprint /Game/Enemies/VitalComponent.VitalComponent
+[2022.05.20-14.26.03:702][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.05.20-14.26.04:072][973]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto8
+[2022.05.20-14.26.04:072][973]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/8C4GDWSRI72J8BAICJ9I8L_Auto8B494D8B54DF438CB77C789A698C0F62D.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto8.uasset'
+[2022.05.20-14.26.04:074][973]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.420
+[2022.05.20-14.26.04:074][973]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.420
+[2022.05.20-14.26.04:075][973]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/EnemyA] ([2] browsable assets)...
+[2022.05.20-14.26.04:087][973]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/EnemyA.EnemyA]
+[2022.05.20-14.26.04:087][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/EnemyA]
+[2022.05.20-14.26.04:140][973]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/EnemyA_Auto8
+[2022.05.20-14.26.04:140][973]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/EnemyA_Auto82A6D5CAF48366E17D3748D9DA31012A3.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/Enemies/EnemyA_Auto8.uasset'
+[2022.05.20-14.26.04:143][973]LogFileHelpers: Auto-saving content packages took 0.069
+[2022.05.20-14.26.52:168][440]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2022.05.20-14.26.52:197][441]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17328
+[2022.05.20-14.26.52:426][452]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7d4dd80e-6f06-46e8-b7a5-e8cb518077ec}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=236.44
+[2022.05.20-14.26.52:426][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.20-14.26.52:436][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.20-14.29.30:195][588]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.05.20-14.29.30:303][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.20-14.30.33:614][484]BlueprintLog: New page: Compile EnemyA
+[2022.05.20-14.30.33:712][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.05.20-14.30.34:489][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyA" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Enemies/EnemyA.uasset" SILENT=true
+[2022.05.20-14.30.34:541][517]LogSavePackage: Moving output files for package: /Game/Enemies/EnemyA
+[2022.05.20-14.30.34:544][517]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/EnemyA6D54274B42D7FA56C77DB3B20B60EB82.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Enemies/EnemyA.uasset'
+[2022.05.20-14.30.34:565][517]AssetCheck: New page: Asset Save: EnemyA
+[2022.05.20-14.30.34:566][517]LogContentValidation: Display: Validating Blueprint /Game/Enemies/EnemyA.EnemyA
+[2022.05.20-14.30.37:320][640]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.20-14.30.37:323][640]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/BP_ThirdPersonCharacterAB19DA924977AAE6D2BED68028A31948.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.20-14.30.37:348][640]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.20-14.30.37:348][640]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.20-14.33.52:283][829]BlueprintLog: New page: Compile VitalComponent
+[2022.05.20-14.33.52:374][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.05.20-14.34.29:619][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/VitalComponent" FILE="../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Enemies/VitalComponent.uasset" SILENT=true
+[2022.05.20-14.34.30:362][798]LogSavePackage: Moving output files for package: /Game/Enemies/VitalComponent
+[2022.05.20-14.34.30:364][798]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/VitalComponent2E739EA24E97DD0F4AD4FB8D6A4C52C5.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/Enemies/VitalComponent.uasset'
+[2022.05.20-14.34.30:385][798]AssetCheck: New page: Asset Save: VitalComponent
+[2022.05.20-14.34.30:385][798]LogContentValidation: Display: Validating Blueprint /Game/Enemies/VitalComponent.VitalComponent
+[2022.05.20-14.34.32:321][899]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.05.20-14.34.32:419][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.05.20-14.34.33:370][921]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.20-14.34.33:373][921]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/BP_ThirdPersonCharacter6E87EF9845D3B604E8E60F83BCB5FF62.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.20-14.34.33:395][921]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.20-14.34.33:395][921]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.20-14.35.51:572][ 25]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.05.20-14.35.51:675][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.05.20-14.35.52:466][ 44]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.05.20-14.35.52:469][ 44]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/BP_ThirdPersonCharacter43D5AC864A95D63E3DEA46A3A44EA7DD.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.05.20-14.35.52:491][ 44]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.05.20-14.35.52:491][ 44]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.05.20-14.37.11:944][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.05.20-14.37.13:714][807]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto9
+[2022.05.20-14.37.13:714][807]LogSavePackage: Moving '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/8C4GDWSRI72J8BAICJ9I8L_Auto910343E014ECC73841BBEFD91A06BAF92.tmp' to '../../../../../School-Projects/unreal-inventory-OlleReberg/UnrealLearn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6X/8C4GDWSRI72J8BAICJ9I8L_Auto9.uasset'
+[2022.05.20-14.37.13:718][807]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 1.817
+[2022.05.20-14.37.13:718][807]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.817
